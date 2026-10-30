@@ -8860,7 +8860,7 @@ __metadata:
     node-cron: 3.0.3
     node-mocks-http: 1.15.1
     node-os-utils: 1.3.7
-    nodemailer: 6.9.14
+    nodemailer: 10.1.4
     nodemon: 3.1.7
     pg: 8.12.0
     pm2: 5.4.2
@@ -35679,10 +35679,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:6.9.14":
-  version: 6.9.14
-  resolution: "nodemailer@npm:6.9.14"
-  checksum: 4037a45e24dbca47c0ea9a962d2c316deef7afe6ebf73c7da3a84942a8d501d85aae7f36dc1c5dac58dec7275f7cb1c92fd4f9c7c19f037225019ad2f402a9dc
+"nodemailer@npm:10.1.4":
+  version: 10.1.4
+  resolution: "nodemailer@npm:10.1.4"
+  checksum: 8acb1276cb14c07b81f2df1306b579e21e31c48ed660d0878ad3f29b2da50da936d002f3c253a0e118e199bef08aa1b9b163f5c92b1f07c24f3c011ba31278a8
   languageName: node
   linkType: hard
 
